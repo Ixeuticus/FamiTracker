@@ -1,4 +1,4 @@
-# FamiTracker
+# FamiTracker [![Build Status](https://camanosoft.visualstudio.com/_apis/public/build/definitions/0cb068a4-066f-4a54-af81-319f7a83e467/4/badge](https://camanosoft.visualstudio.com/FamiTracker/_build/index?buildId=4)
 
 ![dab](https://i.imgur.com/QWRaAVB.png)
 
